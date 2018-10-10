@@ -1,0 +1,35 @@
+html {
+  background-color: lightblue;
+}
+.narrowcol {
+  width: 30%;
+  float: left;
+  font-family: fantasy;
+}
+.widecol {
+  width: 65%;
+  float: left;
+  font-family: fantasy;
+  height: 400px;
+  padding-left: 5%;
+  font-size: 2.5vw;
+  text-align: center;
+}
+.work {
+  color: darkblue;
+  font-family: sans-serif;
+}
+.education {
+  color: red;
+  font-family: sans-serif;
+}
+.skills {
+  color: darkred;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
